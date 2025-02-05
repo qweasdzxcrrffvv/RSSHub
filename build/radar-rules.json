@@ -33098,20 +33098,6 @@
       }
     ]
   },
-  "wainao.me": {
-    "_name": "歪脑",
-    "www": [
-      {
-        "title": "歪脑读",
-        "docs": "https://docs.rsshub.app/routes/new-media",
-        "source": [
-          "/",
-          "/wainao-reads"
-        ],
-        "target": "/wainao/wainao-reads"
-      }
-    ]
-  },
   "wallhaven.cc": {
     "_name": "wallhaven",
     ".": [
